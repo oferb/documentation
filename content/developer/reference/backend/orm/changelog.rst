@@ -13,7 +13,9 @@ Odoo version 18.0
   and rules: `check_access`, `has_access` and `_filtered_access`.
   See `#179148 <https://github.com/odoo/odoo/pull/179148>`_.
 - Translations are made available from the `Environment` with `#174844 <https://github.com/odoo/odoo/pull/174844>`_.
-
+- Method :meth:`~odoo.api.Environment.ref` now accepts a variadic sequence of arguments `xml_ids`,
+  and argument `raise_if_not_found` now is a keyword-only argument, so its name must be specified
+  on every call that uses it. See `#179692 <https://github.com/odoo/odoo/pull/179692>`_.
 
 Odoo Online version 17.4
 ========================
