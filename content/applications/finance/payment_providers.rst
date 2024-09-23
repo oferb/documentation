@@ -22,6 +22,7 @@ Online payments
    payment_providers/razorpay
    payment_providers/sips
    payment_providers/stripe
+   payment_providers/worldline
    payment_providers/xendit
 
 Odoo embeds several **payment providers** that allow your customers to pay online, on their
@@ -133,6 +134,12 @@ Online payment providers
      -
      -
    * - :doc:`Stripe <payment_providers/stripe>`
+     - The provider's website
+     - |V|
+     -
+     -
+     -
+   * - :doc:`Stripe <payment_providers/worldline>`
      - Odoo
      - |V|
      - Full only
@@ -462,6 +469,7 @@ other payments.
    - :doc:`payment_providers/razorpay`
    - :doc:`payment_providers/sips`
    - :doc:`payment_providers/stripe`
+   - :doc:`payment_providers/worldline`
    - :doc:`payment_providers/xendit`
    - :doc:`../websites/ecommerce/checkout_payment_shipping/payments`
    - :doc:`accounting/bank`
