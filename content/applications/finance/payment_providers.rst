@@ -20,7 +20,6 @@ Online payments
    payment_providers/ogone
    payment_providers/paypal
    payment_providers/razorpay
-   payment_providers/sips
    payment_providers/stripe
    payment_providers/worldline
    payment_providers/xendit
@@ -126,12 +125,6 @@ Online payment providers
      - |V|
      - Full only
      - Full and partial
-     -
-   * - :doc:`SIPS <payment_providers/sips>`
-     - The provider's website
-     -
-     -
-     -
      -
    * - :doc:`Stripe <payment_providers/stripe>`
      - The provider's website
@@ -467,7 +460,6 @@ other payments.
    - :doc:`payment_providers/ogone`
    - :doc:`payment_providers/paypal`
    - :doc:`payment_providers/razorpay`
-   - :doc:`payment_providers/sips`
    - :doc:`payment_providers/stripe`
    - :doc:`payment_providers/worldline`
    - :doc:`payment_providers/xendit`
