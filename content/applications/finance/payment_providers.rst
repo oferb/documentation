@@ -17,7 +17,6 @@ Online payments
    payment_providers/flutterwave
    payment_providers/mercado_pago
    payment_providers/mollie
-   payment_providers/ogone
    payment_providers/paypal
    payment_providers/razorpay
    payment_providers/stripe
@@ -457,7 +456,6 @@ other payments.
    - :doc:`payment_providers/demo`
    - :doc:`payment_providers/mercado_pago`
    - :doc:`payment_providers/mollie`
-   - :doc:`payment_providers/ogone`
    - :doc:`payment_providers/paypal`
    - :doc:`payment_providers/razorpay`
    - :doc:`payment_providers/stripe`
