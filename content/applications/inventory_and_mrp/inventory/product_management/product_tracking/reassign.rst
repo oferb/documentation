@@ -17,8 +17,7 @@ assigned lots.
 
 .. seealso::
    - :doc:`Set up and use lot numbers <lots>`
-   - :doc:`Set up serial numbers <create_sn>`
-   - :doc:`Use serial numbers <serial_numbers>`
+   - :doc:`Set up and use serial numbers <serial_numbers>`
 
 Change on-hand quantity to zero
 ===============================
